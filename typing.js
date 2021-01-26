@@ -25,8 +25,8 @@ function createTexts(){
     p.appendChild(span);
 
     return span;
-  }
-});
+  });
+}
 
 document.addEventListener('keydown', keyDown);
 
